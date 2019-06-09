@@ -46,7 +46,7 @@ describe("ExampleWorkBubble component", () => {
   let images = component.find("img");
 
   it("should contain one image", () => {
-    expect(images.length).toEqual(0);
+    expect(images.length).toEqual(1);
   });
 
   it("should have img src correctly", () => {
