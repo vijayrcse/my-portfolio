@@ -11,3 +11,6 @@ https://mochajs.org/
 https://jestjs.io/
 https://airbnb.io/enzyme/
 https://babeljs.io/
+npm run webpack-watch
+npm test
+npm run test-watch
